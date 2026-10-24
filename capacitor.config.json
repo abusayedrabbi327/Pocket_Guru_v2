@@ -1,0 +1,12 @@
+{
+  "appId": "com.personalfinance.app",
+  "appName": "Personal Finance",
+  "webDir": "dist",
+  "server": {
+    "androidScheme": "https",
+    "cleartext": true
+  },
+  "android": {
+    "allowMixedContent": true
+  }
+}
