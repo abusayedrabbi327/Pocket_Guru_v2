@@ -1,6 +1,6 @@
 # 🪙 PocketGuru v2 — Next-Gen AI Financial Intelligence & Advisory Platform
 
-![PocketGuru Banner](https://images.unsplash.com/photo-1559526324-4b87b5e36e44?auto=format&fit=crop&w=1200&q=80)
+![PocketGuru Banner](./docs/banner.png)
 
 [![React](https://img.shields.io/badge/React-18.3.1-blue.svg?logo=react)](https://react.dev/)
 [![Vite](https://img.shields.io/badge/Vite-6.3.5-646CFF.svg?logo=vite)](https://vitejs.dev/)
